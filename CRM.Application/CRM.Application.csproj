@@ -15,8 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Employee\CreateEmployee\" />
-    <Folder Include="Employee\EmployeeDetails\" />
     <Folder Include="Employee\DeleteEmployee\" />
     <Folder Include="Abstractions\" />
   </ItemGroup>
