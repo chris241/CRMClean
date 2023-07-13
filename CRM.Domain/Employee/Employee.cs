@@ -1,5 +1,4 @@
-﻿
-namespace CRM.Domain.Employee;
+﻿namespace CRM.Domain.Employee;
 
 public  class Employee
 {
