@@ -1,6 +1,6 @@
 ﻿namespace CRM.Domain.Employee;
 
-public  class Employee
+public  class Employee : Entity, IAggregateRoot
 {
     public EmployeeId Id { get; set; }  
     public string Firstname { get;set; }
