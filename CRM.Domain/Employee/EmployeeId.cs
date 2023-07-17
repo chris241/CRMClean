@@ -1,6 +1,4 @@
 ﻿
 namespace CRM.Domain.Employee;
 
-public record EmployeeId
-{
-}
+public record EmployeeId(Guid id);
