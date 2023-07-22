@@ -1,4 +1,2 @@
 ﻿namespace CRM.Domain.Department;
-public record DepartmentId(Guid Id)
-{
-}
+public record DepartmentId(Guid Id);
