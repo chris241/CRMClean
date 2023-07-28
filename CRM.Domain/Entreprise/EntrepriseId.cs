@@ -1,5 +1,4 @@
 ﻿
-namespace CRM.Domain.Entreprise
-{
-    public record EntrepriseId(Guid Id);
-}
+namespace CRM.Domain.Entreprise;
+
+public record EntrepriseId(Guid Id);
